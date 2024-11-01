@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @raymond477
-- 👀 I’m interested in Python Flask
-- 🌱 I’m currently learning Python Flask
+- 👀 I’m interested in Python Flask and Nodejs
+- 🌱 I’m currently learning Python Flask and Nodejs
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @peter.raymond477@gmail.com
 
